@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
 
 PackageIdentifier: JaredMeadows.pulse-panel
-PackageVersion: 0.31.28
+PackageVersion: 0.31.26
 PackageLocale: en-US
 Publisher: Jared Meadows
 PublisherUrl: https://github.com/meadowsjared
@@ -23,7 +23,7 @@ Tags:
 - soundboard
 - sounds
 - custom
-ReleaseNotesUrl: https://github.com/meadowsjared/pulse-panel/releases/tag/v0.31.28
+ReleaseNotesUrl: https://github.com/meadowsjared/pulse-panel/releases/tag/v0.31.26
 Documentations:
 - DocumentLabel: Wiki
   DocumentUrl: https://github.com/meadowsjared/pulse-panel/wiki

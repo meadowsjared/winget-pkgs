@@ -13,8 +13,11 @@ PackageName: pulse-panel
 PackageUrl: https://github.com/meadowsjared/pulse-panel
 License: MIT
 LicenseUrl: https://raw.githubusercontent.com/meadowsjared/pulse-panel/main/LICENSE
-ShortDescription: A soundboard app that looks nice too
-Description: A soundboard app that looks nice too
+ShortDescription: A soundboard app that looks nice too.
+Description: |-
+  Pulse Panel is a Windows soundboard application featuring hotkey-triggered audio playback to microphone and speakers, waveform visualization, and sound management.
+  
+  The application includes an optional convenience utility to download and install the VB-CABLE virtual audio driver from VB-Audio. When initiated by the user, the driver archive is downloaded, verified against a pinned SHA-256 cryptographic hash prior to extraction, and executed with administrator elevation (UAC prompt) to install the virtual audio device driver.
 Moniker: pulsepanel
 Tags:
 - soundboard
